@@ -1,4 +1,0 @@
-data_source,file_name,player_id_or_entity_type,location_category,coord_x,coord_y,coord_z,nbt_path_to_item,found_item_name_tag,found_item_value,raw_nbt_path
-PlayerData,60604b44-c557-4ba2-a141-391f322063bc.dat,60604b44-c557-4ba2-a141-391f322063bc,Player Inventory,,,,root.Inventory[1].id,id,minecraft:elytra,root.Inventory[1].id
-RegionFile_BlockEntity,r.0.-1.mca,,"BlockEntity in Chunk[0,31]",0,68,-8,"Chunk[0,31].block_entities[0].Items[0].id",id,minecraft:elytra,"Chunk[0,31].block_entities[0].Items[0].id"
-EntityFile_Entity,r.0.-1.mca,minecraft:item,"Entity in Sector[0,31]",0.30,68.00,-8.50,"Sector[0,31].Entities[2].Item.id",id,minecraft:elytra,"Sector[0,31].Entities[2].Item.id"
